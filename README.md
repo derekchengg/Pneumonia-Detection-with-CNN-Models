@@ -7,8 +7,8 @@ Our model applies transfer learning with EfficientNet B2 model to classify image
 
 ## Important Links
 
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/EQ_ZQMuarQ5CpzIqsLlz64oBTZyeQruLIhjMigH4XzMf7A?e=VtQcyk) | [Slack channel](https://cmpt419spring2025.slack.com/archives/C0871L98S4Q) | [Project report](https://www.overleaf.com/6221845897mmcvmzmnmfxj#2cdf62) |
-|-----------|---------------|-------------------------|
+| [Project report](https://www.overleaf.com/6221845897mmcvmzmnmfxj#2cdf62) |
+|-------------------------|
 
 ---
 
