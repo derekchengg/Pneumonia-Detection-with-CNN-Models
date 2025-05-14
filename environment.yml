@@ -1,0 +1,18 @@
+name: pneumonia-cnn
+channels:
+  - apple
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - opencv
+  - pip:
+      - tensorflow-macos
+      - tensorflow-metal
+
